@@ -23,7 +23,8 @@ sLine CLine[] = {
 	{"-title",0},
 	{"-cachefix",0},
 	{"-sleepy",0},
-	{"-rd",0},
+	{"-multi",0},
+	//{"-rd",0},
 	{"-ftj",0}
 };
 
